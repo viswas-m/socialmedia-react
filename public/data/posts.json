@@ -1,0 +1,6 @@
+[
+    { "id": 1, "caption": "Beautiful sunset", "mediaUrl": "https://i0.wp.com/lizzydavis.com/wp-content/uploads/2022/03/DSC_5981.jpg?resize=960%2C636&ssl=1", "published": true },
+    { "id": 2, "caption": "Amazing mountains", "mediaUrl": "https://hips.hearstapps.com/hmg-prod/images/ama-dablam-mountain-peak-view-from-chola-pass-royalty-free-image-1623254695.jpg", "published": true },
+    { "id": 3, "caption": "City lights", "mediaUrl": "https://png.pngtree.com/thumb_back/fw800/background/20230806/pngtree-i-city-lights-going-down-image_12983262.jpg", "published": false }
+  ]
+  

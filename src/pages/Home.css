@@ -1,0 +1,17 @@
+.dash-img{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-bottom: 40px;
+  
+}
+.quote{
+    text-align: center;
+
+    font-size: 30px;
+    color:#201E43;
+    font-weight: 400;
+    font-family:cursive;
+}

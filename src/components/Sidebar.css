@@ -1,0 +1,66 @@
+
+@import url('https://cdn-uicons.flaticon.com/2.5.1/uicons-bold-straight/css/uicons-bold-straight.css');
+
+
+.logo-img{
+    height: 100px;
+    width: 200px;
+}
+h4{
+    color:#201E43;
+    font-weight:500;
+    font-size: 20px;
+
+}
+.sidebar-list{
+    list-style-type: none;
+    margin: 0px;
+}
+Link{
+    color: white!important;
+    text-decoration: none;   
+}
+.sidebar-list li{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.active-tab{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.sidebar-list li:hover{
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.sidebar-list li i{
+   margin-right: 10px;
+   margin-top: 5px;
+   
+
+}
+.down-cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  position: absolute;
+  bottom: 10px;
+
+    padding: 0px;
+  
+    
+   
+}
+.down-cont p i{
+    font-size: 40px;
+    margin: 0px;
+}
+.down-cont h4{
+    margin-left: 8px;
+
+}
+.down-cont h4 span{
+    color:white;
+    font-size: 15px;
+   
+}
