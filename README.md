@@ -25,5 +25,5 @@ This is a social media admin dashboard built using React.js. The dashboard allow
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/viswas-m/socialmedia-buzznet
+   git clone https://github.com/viswas-m/socialmedia-react
    cd social-media-admin-dashboard
